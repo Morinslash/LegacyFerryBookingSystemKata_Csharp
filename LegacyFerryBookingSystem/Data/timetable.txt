@@ -1,0 +1,162 @@
+[
+    {
+        "Id": 1,
+        "TimeTableId": 1,
+        "OriginId": 0,
+        "DestinationId": 2,
+        "Time": "00:00:00",
+        "JourneyTime": "00:30:00"
+    },
+    {
+        "Id": 16,
+        "TimeTableId": 1,
+        "OriginId": 0,
+        "DestinationId": 3,
+        "Time": "00:10:00",
+        "JourneyTime": "00:45:00"
+    },
+    {
+        "Id": 2,
+        "TimeTableId": 1,
+        "OriginId": 0,
+        "DestinationId": 2,
+        "Time": "00:20:00",
+        "JourneyTime": "00:30:00"
+    },
+    {
+        "Id": 3,
+        "TimeTableId": 1,
+        "OriginId": 0,
+        "DestinationId": 2,
+        "Time": "00:40:00",
+        "JourneyTime": "00:30:00"
+    },
+    {
+        "Id": 4,
+        "TimeTableId": 1,
+        "OriginId": 0,
+        "DestinationId": 2,
+        "Time": "01:00:00",
+        "JourneyTime": "00:00:00"
+    },
+    {
+        "Id": 5,
+        "TimeTableId": 1,
+        "OriginId": 0,
+        "DestinationId": 3,
+        "Time": "01:10:00",
+        "JourneyTime": "00:45:00"
+    },
+    {
+        "Id": 6,
+        "TimeTableId": 1,
+        "OriginId": 0,
+        "DestinationId": 2,
+        "Time": "01:20:00",
+        "JourneyTime": "00:30:00"
+    },
+    {
+        "Id": 7,
+        "TimeTableId": 1,
+        "OriginId": 0,
+        "DestinationId": 2,
+        "Time": "01:40:00",
+        "JourneyTime": "00:30:00"
+    },
+    {
+        "Id": 8,
+        "TimeTableId": 2,
+        "OriginId": 0,
+        "DestinationId": 1,
+        "Time": "00:10:00",
+        "JourneyTime": "00:30:00"
+    },
+    {
+        "Id": 9,
+        "TimeTableId": 2,
+        "OriginId": 0,
+        "DestinationId": 1,
+        "Time": "00:30:00",
+        "JourneyTime": "00:30:00"
+    },
+    {
+        "Id": 10,
+        "TimeTableId": 2,
+        "OriginId": 0,
+        "DestinationId": 3,
+        "Time": "00:40:00",
+        "JourneyTime": "00:35:00"
+    },
+    {
+        "Id": 11,
+        "TimeTableId": 2,
+        "OriginId": 0,
+        "DestinationId": 1,
+        "Time": "00:50:00",
+        "JourneyTime": "00:30:00"
+    },
+    {
+        "Id": 12,
+        "TimeTableId": 2,
+        "OriginId": 0,
+        "DestinationId": 1,
+        "Time": "01:10:00",
+        "JourneyTime": "00:30:00"
+    },
+    {
+        "Id": 13,
+        "TimeTableId": 2,
+        "OriginId": 0,
+        "DestinationId": 1,
+        "Time": "01:30:00",
+        "JourneyTime": "00:30:00"
+    },
+    {
+        "Id": 14,
+        "TimeTableId": 2,
+        "OriginId": 0,
+        "DestinationId": 3,
+        "Time": "01:40:00",
+        "JourneyTime": "00:35:00"
+    },
+    {
+        "Id": 15,
+        "TimeTableId": 2,
+        "OriginId": 0,
+        "DestinationId": 1,
+        "Time": "01:50:00",
+        "JourneyTime": "00:30:00"
+    },
+    {
+        "Id": 17,
+        "TimeTableId": 3,
+        "OriginId": 0,
+        "DestinationId": 1,
+        "Time": "00:25:00",
+        "JourneyTime": "00:45:00"
+    },
+    {
+        "Id": 18,
+        "TimeTableId": 3,
+        "OriginId": 0,
+        "DestinationId": 2,
+        "Time": "00:40:00",
+        "JourneyTime": "00:35:00"
+    },
+    {
+        "Id": 19,
+        "TimeTableId": 3,
+        "OriginId": 0,
+        "DestinationId": 1,
+        "Time": "01:25:00",
+        "JourneyTime": "00:45:00"
+    },
+    {
+        "Id": 20,
+        "TimeTableId": 3,
+        "OriginId": 0,
+        "DestinationId": 2,
+        "Time": "01:40:00",
+        "JourneyTime": "00:35:00"
+    }
+]
